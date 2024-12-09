@@ -90,7 +90,7 @@ const Ingredients = () => {
           </div>
         </div>
         <div className="hidden lg:block h-60 w-[7%]">
-          <img src={dec} alt="dec" className="h-full"/>{" "}
+          <img src="https://i.ibb.co/Xt7LD2q/dec.jpg" alt="dec" className="h-full"/>{" "}
         </div>
       </div>
     </div>
